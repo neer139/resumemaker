@@ -1,0 +1,33 @@
+
+#cv-form{
+    /* display: none; */
+}
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.background{
+    background-color:darkseagreen;
+    color: white;
+
+}
+
+.text{
+    color: white;
+}
+
+
+.text a{
+    color: white;
+}
+
+li:last-child{
+    display: none;
+}
